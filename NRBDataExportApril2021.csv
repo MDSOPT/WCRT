@@ -1,0 +1,464 @@
+Age,Gender,Retailer,RetailerFreqency,Items,Ethnicity,Education,HouseholdIncome,Q_TotalDuration,SurveyTime,EXP-1,EXP-2,EXP-3,SAT-1,SAT-2,SAT-3,SAT-4,SAT-5,PWOM-1,PWOM-2,PWOM-3,INTENT-1,INTENT-2,INTENT-3,INTENT-4,ENJOY-1,ENJOY-2,ENJOY-3,ENJOY-4
+77,Female,macys,Occasionally,blouses  womens,White,High School/GED,"$20,000 less",131,2,,7,,,7,,,,6,7,6,5,2,4,5,5,5,2,2
+76,Male,kohls,Frequently,clothes,White,Some College/Associates Degree,"$75,000-$100,000",182,2,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,2,5,1
+76,Male,staples,Somewhat Frequently,calenders,White,Some College/Associates Degree,"$50,001-75,000",163,2.5,7,7,7,7,7,7,7,7,6,6,7,7,1,7,6,5,3,4,2
+74,Female,Meijer,Somewhat Frequently,groceries & gifts,White,Bachelor's degree,"$20,001-$35,000",247,2.5,2,2,2,2,2,2,2,2,2,2,2,2,5,2,4,5,6,6,3
+62,Female,Kohl’s ,Somewhat Frequently,Sneakers,White,Some College/Associates Degree,"$75,000-$100,000",196,2.5,6,7,5,6,6,7,6,6,6,7,7,7,1,6,7,1,7,5,5
+49,Female,Macys,Frequently,Clothing,White,Bachelor's degree,"Greater than $100,000",230,3,,,7,7,,,,,7,7,7,7,1,7,7,2,7,6,6
+44,Female,Macys,Rarely,Cologne,Hispanic/Latino,Graduate/Professional Degree,"Greater than $100,000",228,3,6,6,6,7,6,7,7,7,6,6,6,5,2,5,6,5,5,4,4
+29,Male,Book Mountain,Somewhat Rarely,Books,White,Some College/Associates Degree,"$20,000 less",140,3.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,6,6,4
+58,Female,Gap.com,Somewhat Frequently,childrens clothing,White,Some College/Associates Degree,"Greater than $100,000",194,4,7,6,6,7,6,7,6,7,6,6,5,6,2,4,7,3,5,4,2
+36,Female,Target ,Somewhat Frequently,Food ,White,Bachelor's degree,"$50,001-75,000",106,4,4,4,4,4,3,5,4,4,3,4,5,5,4,5,,3,3,4,5
+55,Female,Dillard’s ,Occasionally,Shoes,White,Graduate/Professional Degree,"Greater than $100,000",334,4,7,7,7,7,7,7,7,7,7,7,1,1,6,6,6,1,7,6,6
+63,Female,fairway market,Somewhat Frequently,food,White,Some College/Associates Degree,"$50,001-75,000",215,4,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,4,3,1
+51,Male,Target,Frequently,Stocking Stuffers,White,Bachelor's degree,"Greater than $100,000",223,4.5,6,5,5,6,6,6,6,6,6,6,6,6,1,6,6,4,6,6,4
+70,Female,Target,Somewhat Frequently,Christmas Gifts,White,High School/GED,"$35,001-$50,000",174,5.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,7,4,2,3
+79,Female,shoprite,Frequently,food,White,Bachelor's degree,"Greater than $100,000",273,6,7,6,6,7,6,7,7,7,6,7,7,7,1,7,7,1,7,7,6
+58,Female,Dillards,Rarely,Outfit for wedding,White,Some College/Associates Degree,"$35,001-$50,000",403,6.5,7,6,7,7,7,7,7,7,6,6,6,5,5,5,5,5,6,5,3
+31,Female,walmart,Frequently,milk and eggs,White,Graduate/Professional Degree,"$75,000-$100,000",355,7,6,7,7,7,7,5,7,7,,6,6,7,6,7,7,7,6,6,7
+40,Male,Shoe carnival,Occasionally,Shoes,Black,High School/GED,"$35,001-$50,000",273,7,7,7,7,,,,,,6,6,6,6,1,6,6,5,6,5,4
+60,Female,Petco,Somewhat Frequently,Dog food,White,Bachelor's degree,"Greater than $100,000",196,7,7,7,7,7,7,7,7,7,6,6,6,7,1,7,7,2,6,4,3
+31,Female,rnnny,Frequently,yw3qgdsaiuhol,White,,"$75,000-$100,000",592,8.5,7,7,7,7,7,7,7,7,7,7,7,7,7,2,5,6,6,7,7
+67,Male,Amazon,Frequently,Beverages ,White,Some College/Associates Degree,"$75,000-$100,000",183,8.5,7,7,7,7,7,7,7,7,6,7,7,6,1,7,7,2,7,6,5
+60,Female,macys,Occasionally,furniture,White,Bachelor's degree,"Greater than $100,000",220,9,7,7,7,7,7,7,7,7,6,6,6,4,4,4,5,1,6,6,5
+56,Female,Game Stop,Somewhat Rarely,Virtual Reality Device,White,High School/GED,"$20,000 less",169,9.5,6,7,7,7,7,7,,7,7,6,5,7,1,6,7,6,3,3,1
+36,Female,walmart,Frequently,Hair care products,Hispanic/Latino,Bachelor's degree,"Greater than $100,000",626,9.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,6,7
+60,Male,target,Somewhat Frequently,cloths,White,Bachelor's degree,"Greater than $100,000",128,9.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2,5,4,5
+61,Female,Meijer,Frequently,Food,White,Some College/Associates Degree,"Greater than $100,000",524,9.5,7,7,7,7,7,7,7,7,6,6,6,6,1,6,7,2,7,6,5
+69,Female,Giant Eagle,Frequently,Birthday Cake,White,High School/GED,"$20,000 less",304,10.5,6,6,6,7,7,7,7,7,7,7,7,7,1,7,7,6,4,2,1
+55,Female,V Watts,Occasionally,Christmas,White,Bachelor's degree,"$50,001-75,000",145,10.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2,7,5,4
+47,Male,Target,Somewhat Frequently,Craft supplies ,White,Bachelor's degree,"Greater than $100,000",206,10.5,4,5,6,6,6,6,5,6,6,6,7,7,2,4,6,3,7,6,5
+85,Female,Swiss colony,Occasionally,Christmas gifts,White,Bachelor's degree,"$75,000-$100,000",374,10.5,1,3,1,1,1,1,1,1,1,2,2,1,6,2,2,3,5,3,2
+52,Female,Amazon ,Frequently,Electronics ,White,High School/GED,"$20,001-$35,000",166,11,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,6
+65,Female,Fred Meyer,Frequently,Groceries,White,Some College/Associates Degree,"$35,001-$50,000",114,11,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,5,5,5
+56,Female,Target,Occasionally,Printer,Hispanic/Latino,Some College/Associates Degree,"$20,001-$35,000",317,11,1,1,1,1,1,1,1,1,3,2,2,2,6,2,2,5,,6,2
+73,Male,Taco Bell,Somewhat Frequently,food,White,Graduate/Professional Degree,"Greater than $100,000",181,11.5,3,3,3,3,3,3,3,3,3,4,3,5,3,4,5,5,4,4,4
+58,Male,Nordstrom ,Rarely,Gifts for family ,East Asian,Graduate/Professional Degree,"$75,000-$100,000",154,11.5,7,7,7,6,6,7,7,4,6,7,7,4,1,4,6,4,4,7,4
+57,Female,Kohls,Occasionally,Gifts,White,High School/GED,"$20,000 less",336,12,7,7,7,7,7,7,7,7,7,7,6,7,1,5,7,2,7,6,6
+67,Female,Ralph Lauren,Occasionally,A sweater,White,Graduate/Professional Degree,"Greater than $100,000",116,12,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,5
+57,Male,Walmart,Frequently,Flat screen tv,Black,High School/GED,"$20,001-$35,000",291,12.5,,7,,7,,,,,7,7,7,7,1,6,7,3,4,3,1
+66,Female,Publix,Somewhat Frequently,Groceries,White,Graduate/Professional Degree,"$75,000-$100,000",202,12.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,5,5,7
+30,Male,Kmart,Frequently,Foods,White,Graduate/Professional Degree,"$75,000-$100,000",260,13.5,7,6,7,7,6,6,7,6,6,6,7,7,1,6,7,1,7,6,4
+57,Male,Amazon,Occasionally,Belts,White,High School/GED,"$20,000 less",256,14.5,7,7,7,7,7,7,7,7,7,7,7,,7,7,7,7,7,7,7
+50,Female,Walgreens,Somewhat Frequently,Hi Chew Candy,White,High School/GED,"Greater than $100,000",146,14.5,7,7,7,7,7,7,7,7,7,7,7,7,1,5,5,4,7,7,5
+50,Female,JC penney,Occasionally,shoes,East Asian,Graduate/Professional Degree,"$75,000-$100,000",557,15,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,4,4,5,4
+74,Female,Albertsons ,Occasionally,Few groceries ,White,High School/GED,"$35,001-$50,000",376,15,7,7,7,7,7,7,7,7,7,7,7,7,1,7,1,2,6,6,2
+61,Female,Kohls,Occasionally,bras,White,Bachelor's degree,"$50,001-75,000",132,15,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,5,5,4
+54,Female,Macys,Occasionally,Christmas,East Asian,Bachelor's degree,"Greater than $100,000",138,15.5,6,5,5,4,5,5,5,5,5,5,5,5,1,4,5,3,6,6,5
+68,Female,KTA,Rarely,Groceries ,White,Some College/Associates Degree,"$20,001-$35,000",229,17,,1,7,7,7,7,7,7,6,6,6,5,3,5,5,5,6,6,5
+64,Female,Macys ,Rarely,no,Prefer not to answer,High School/GED,"$20,000 less",177,17.5,1,1,1,1,1,1,1,1,1,1,1,2,7,1,1,7,6,6,6
+43,Female,Saks,Rarely,Dress,Black,Graduate/Professional Degree,"Greater than $100,000",162,18.5,7,7,7,7,7,7,7,7,7,7,7,6,1,6,7,3,5,5,2
+56,Female,WALMART,Somewhat Frequently,GROCERIES,White,High School/GED,"$35,001-$50,000",190,18.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,4,7,4
+49,Female,macys,Somewhat Frequently,dress,White,Graduate/Professional Degree,"$50,001-75,000",149,19,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,7,7,7
+76,Male,llbean,Rarely,coats,White,Graduate/Professional Degree,"Greater than $100,000",339,19,7,5,7,7,7,7,5,7,7,7,7,5,1,6,6,7,1,1,1
+44,Female,Staples ,Occasionally,Laptop computer ,Black,Bachelor's degree,"$35,001-$50,000",196,19.5,7,7,7,7,7,7,7,7,6,6,6,7,1,7,7,2,5,7,7
+64,Female,Walmart,Frequently,toys,Hispanic/Latino,Bachelor's degree,"$75,000-$100,000",165,19.5,6,6,6,6,6,7,6,6,6,7,7,6,1,7,7,1,7,6,7
+69,Female,Eileen fisher,Frequently,Tunics,White,Graduate/Professional Degree,"$50,001-75,000",251,20,7,7,7,,,,7,,7,7,7,,1,7,7,1,6,6,1
+43,Female,Publix,Frequently,Pediasure,White,Bachelor's degree,"$75,000-$100,000",270,21,7,7,7,7,7,7,7,7,7,6,6,7,1,7,7,2,6,5,3
+40,Female,Sears,Somewhat Rarely,Kmart,East Asian,Bachelor's degree,"$35,001-$50,000",128,21.5,6,5,5,4,4,4,5,3,4,4,4,4,4,4,4,4,4,3,1
+44,Female,Costco,Somewhat Frequently,Snapware & metal counter baskets ,Hispanic/Latino,Some College/Associates Degree,"$50,001-75,000",227,22,7,7,7,7,7,7,7,7,7,6,6,7,1,6,7,2,7,7,5
+71,Female,Barnes and Noble,Frequently,Books lots of them,White,Some College/Associates Degree,"$50,001-75,000",156,22.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+73,Female,amazon,Occasionally,book,White,Bachelor's degree,"Greater than $100,000",161,22.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,4,5
+57,Female,Amazon ,Somewhat Frequently,Heated mattress pad,White,Some College/Associates Degree,"$50,001-75,000",287,22.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,6,6,4
+69,Male,Macy's,Rarely,Coffee gift,White,Some College/Associates Degree,"$35,001-$50,000",233,23,3,4,5,3,4,5,5,4,4,3,3,2,4,3,3,2,4,3,2
+20,Female,Dollar tree,Frequently,Snacks ,Hispanic/Latino,High School/GED,"$20,000 less",128,24.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,7,7,7,7
+72,Female,Big Lots,Occasionally,comforter,White,Some College/Associates Degree,"$20,000 less",301,25.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,6,5,4
+66,Female,best buy,Somewhat Frequently,laptop,White,Some College/Associates Degree,"$50,001-75,000",280,27.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+70,Female,Walmart SuperCenter,Frequently,We were getting pictures copied.,White,High School/GED,"$75,000-$100,000",1313,30,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+44,Female,yankee candle,Occasionally,candles,White,Graduate/Professional Degree,"Greater than $100,000",602,30,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,2
+59,Female,Lands End,Somewhat Frequently,Clothing,White,Bachelor's degree,"Greater than $100,000",153,30.5,6,6,6,6,6,6,6,6,7,7,7,7,1,7,7,5,5,3,1
+23,Male,Macy's,Occasionally,,East Asian,Bachelor's degree,"Greater than $100,000",97,30.5,6,5,5,6,6,6,6,5,5,5,5,6,2,3,6,3,5,5,3
+67,Male,DOLLAR GENERAL,Frequently,JUICE,Black,High School/GED,"$35,001-$50,000",289,30.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,3,4,2
+87,Female,drug mart,Somewhat Frequently,bread,Black,,"$35,001-$50,000",342,31,4,,,,,,4,,6,6,6,6,2,6,6,3,5,6,5
+38,Female,Walmart,Frequently,Random stuff ,White,High School/GED,"$20,001-$35,000",210,31,4,4,4,3,3,3,3,3,3,3,2,3,5,4,3,4,5,4,5
+59,Female,Michaels Craft Store online,Somewhat Rarely,food coloring,White,Some College/Associates Degree,"Greater than $100,000",159,31.5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,7,2,1,1
+72,Female,warmart,Occasionally,foods,Black,High School/GED,"$20,000 less",1039,31.5,7,6,6,7,6,6,6,6,6,6,6,6,2,4,6,4,5,5,4
+43,Female,Walmart,Frequently,Walmart,Black,High School/GED,"$20,001-$35,000",126,32,5,5,5,4,4,4,4,4,6,6,6,6,6,6,6,3,4,4,5
+20,Female,Five Below,Somewhat Frequently,Christmas Presents,White,Some College/Associates Degree,"$35,001-$50,000",102,32,7,7,6,7,7,7,7,6,7,7,7,7,1,4,7,5,5,3,3
+66,Female,macys.com,Rarely,women's cotton pajamas,White,Graduate/Professional Degree,"$50,001-75,000",1010,33.5,7,7,7,7,7,7,7,7,7,7,7,6,1,6,7,2,5,5,3
+30,Female,Builder Bear,Occasionally,Raindeers,Black,Graduate/Professional Degree,"Greater than $100,000",1433,34,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+72,Female,wayfair,Occasionally,headboard,White,Some College/Associates Degree,"$50,001-75,000",259,36,7,7,7,7,7,7,7,7,7,7,7,7,2,7,7,5,7,6,6
+77,Female,target,Somewhat Rarely,coat for granddaughter,White,High School/GED,"$35,001-$50,000",170,37.5,7,7,7,7,7,7,7,7,6,6,6,5,1,5,6,4,3,5,2
+54,Female,Walmart,Frequently,Groceries,White,Bachelor's degree,"$35,001-$50,000",200,38,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,3,3,1
+45,Male,walmart,Frequently,target,White,Some College/Associates Degree,"$35,001-$50,000",537,38.5,7,6,7,7,6,7,7,6,,6,6,7,7,6,7,3,6,6,7
+44,Male,Target ,Frequently,Groceries ,Hispanic/Latino,Some College/Associates Degree,"$75,000-$100,000",662,38.5,7,7,7,7,7,7,7,7,7,7,6,7,6,6,7,3,5,2,4
+69,Male,Albertsons,Frequently,Groceries,White,Bachelor's degree,"$50,001-75,000",123,39,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,5,3,2,1
+60,Female,Ross,Occasionally,Clothes ,White,Some College/Associates Degree,"$20,000 less",165,41,7,7,7,7,7,7,7,7,6,6,6,6,2,4,6,3,6,5,5
+46,Female,Walmart Neighborhood Market ,Somewhat Frequently,groceries,White,Bachelor's degree,"Greater than $100,000",202,42.5,4,4,2,3,3,4,3,4,5,5,5,6,2,5,6,5,3,2,1
+62,Female,Kroger,Frequently,Christmas dinner,White,Some College/Associates Degree,"$20,000 less",495,43,7,7,7,7,7,7,7,7,7,6,6,7,1,5,6,3,5,6,4
+73,Female,wal-mart,Somewhat Frequently,food,White,,"$50,001-75,000",251,43,1,1,1,1,1,1,1,,1,1,1,1,5,3,6,4,1,4,4
+59,Female,ann taylor loft,Occasionally,clothes,White,Bachelor's degree,"$75,000-$100,000",222,43,6,6,6,7,7,6,6,6,6,6,6,6,1,6,7,2,7,7,6
+59,Female,amazon,Frequently,amazon,White,Some College/Associates Degree,"Greater than $100,000",176,43.5,7,7,7,7,7,7,7,7,6,6,7,6,6,7,6,6,6,6,7
+62,Female,Dillards outlet,Rarely,Dresses,Black,Some College/Associates Degree,"$20,001-$35,000",271,44.5,,,,,7,,7,7,1,1,1,7,1,7,7,5,5,6,2
+71,Female,.MyRacehorse.com,Rarely,1 share of racehorse,White,Some College/Associates Degree,"$35,001-$50,000",111,45,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,6,4,3,2
+51,Female,Scheels,Occasionally,Gift,White,High School/GED,"Greater than $100,000",270,45.5,,,7,7,7,7,7,7,7,7,7,7,1,6,7,4,6,3,1
+61,Female,Home Goods,Somewhat Frequently,Christmas gifts,White,Some College/Associates Degree,"$50,001-75,000",167,45.5,6,6,6,7,7,7,7,7,6,6,6,6,1,7,7,2,6,6,2
+65,Female,Penneys,Somewhat Rarely,Coat,White,Bachelor's degree,"$35,001-$50,000",143,46,6,6,6,7,7,7,7,7,7,7,7,5,7,7,7,4,6,6,5
+33,Female,target,Frequently,christmas presents,East Asian,High School/GED,"Greater than $100,000",957,47,7,7,7,7,7,7,7,7,7,7,7,7,1,5,7,3,6,6,5
+58,Female,Bath and Body Works,Occasionally,Hand Soap,White,Bachelor's degree,"Greater than $100,000",590,47.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,7,7
+55,Female,Germaine Lexus ,Rarely,Suv,White,Bachelor's degree,"Greater than $100,000",134,48,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,5,5,2
+71,Female,Tageet,Somewhat Rarely,toys for grandson,White,Some College/Associates Degree,"$50,001-75,000",209,48,5,5,6,5,5,5,5,5,5,5,4,4,3,4,5,1,7,6,5
+61,Female,Boscovs,Occasionally,Apparel,White,Bachelor's degree,"Greater than $100,000",215,49,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,5,5,4
+69,Female,pet smatt,Occasionally,doggie sweater,White,Some College/Associates Degree,"$20,000 less",318,49,6,5,6,7,6,6,6,6,6,6,6,6,2,2,6,6,3,2,2
+50,Male,walmart,Frequently,target,White,Bachelor's degree,"Greater than $100,000",153,49.5,6,7,5,5,6,6,5,6,6,5,6,6,5,5,6,6,5,4,6
+51,Male,Amazon,Somewhat Frequently,Amazmon,White,Some College/Associates Degree,"$75,000-$100,000",481,50.5,4,6,5,6,5,7,5,6,7,5,6,5,5,6,5,7,6,4,5
+67,Female,kohls,Somewhat Frequently,black friday deals,White,,"$50,001-75,000",244,51.5,,1,,7,7,7,7,7,6,6,6,6,1,4,7,2,7,5,3
+40,Male,Palmetto State Armory,Somewhat Rarely,Firearm,White,Bachelor's degree,"Greater than $100,000",130,52,6,6,6,6,6,6,6,6,6,6,6,6,1,6,6,6,2,3,2
+26,Female,Amazon ,Somewhat Frequently,Don't know ,White,Graduate/Professional Degree,"$75,000-$100,000",151,53.5,7,6,6,7,6,7,7,7,7,6,6,7,7,7,6,6,7,7,6
+68,Female,home depot,Frequently,fireplace heater,White,,"$20,001-$35,000",153,53.5,7,7,4,7,7,7,7,4,7,7,7,7,1,7,7,7,1,1,1
+61,Female,Kohls,Somewhat Frequently,clothes,White,Graduate/Professional Degree,"$50,001-75,000",214,55,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,6,7,5
+71,Female,Sprouts,Rarely,lobster,White,,"$35,001-$50,000",162,55.5,3,4,2,2,2,2,2,2,2,2,2,2,7,1,1,5,6,3,1
+67,Female,Costco,Somewhat Frequently,Groceries,White,Some College/Associates Degree,"$35,001-$50,000",690,56,6,6,6,6,6,6,6,6,6,6,6,6,2,6,6,4,3,3,3
+74,Female,Chico's ,Occasionally,Clothes ,White,Bachelor's degree,"$50,001-75,000",198,57,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,7,6,3
+46,Female,Macys,Frequently,Boots,Hispanic/Latino,Some College/Associates Degree,"Greater than $100,000",117,59,7,6,7,7,7,7,7,7,6,6,6,7,1,5,7,1,7,5,6
+42,Female,Sear,Rarely,a washer/dryer,Hispanic/Latino,Bachelor's degree,"Greater than $100,000",136,60,1,1,4,2,1,3,1,1,1,1,1,1,7,1,1,3,1,2,3
+39,Female,Trader Joe,Frequently,grocery,East Asian,Bachelor's degree,"$75,000-$100,000",149,61,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,5,5,7,5
+67,Female,Hallmark,Occasionally,Christmas cards and gifts,White,Some College/Associates Degree,"$50,001-75,000",358,63,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,7,6,2
+58,Female,bed bath beyond,Frequently,coffee mugs,White,Bachelor's degree,"Greater than $100,000",141,63.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,5,6,5
+60,Female,JoAnn Fabrics,Somewhat Frequently,Things for sewing Christmas gifts,White,High School/GED,"$20,000 less",492,63.5,,,,7,,,,,6,6,6,7,1,7,5,4,6,5,2
+54,Female,Staples,Occasionally,shredding services,White,Bachelor's degree,"$20,001-$35,000",188,63.5,7,7,7,7,7,7,7,7,5,5,5,5,1,5,6,5,4,3,2
+69,Female,Big Lots,Occasionally,Christmas Presents,White,Some College/Associates Degree,"Greater than $100,000",186,64.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,7,4
+51,Female,amazon.com,Frequently,jewelry,White,High School/GED,"$50,001-75,000",193,64.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,4,7,5
+54,Female,BURLINGTON,Somewhat Frequently,CLOTHING,Hispanic/Latino,High School/GED,"$20,000 less",257,66,7,7,7,7,7,7,7,7,7,7,7,6,1,6,7,1,6,7,7
+77,Female,IMemories,Rarely,Film transfer,White,Some College/Associates Degree,"$75,000-$100,000",280,66.5,7,7,7,,,,7,7,7,7,7,4,4,6,5,5,1,3,3
+63,Male,KingsizeDirect,Occasionally,Clothing,Black,Some College/Associates Degree,"$20,000 less",218,69.5,6,7,7,6,6,6,7,7,6,7,6,7,1,6,7,2,6,5,6
+64,Female,CVS,Somewhat Frequently,OTC medicines,White,Some College/Associates Degree,"$50,001-75,000",304,69.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,6,6,5
+61,Female,Albertsons ,Somewhat Frequently,Prime rib,White,Bachelor's degree,"$75,000-$100,000",375,70,6,6,6,6,6,6,6,6,6,5,6,6,7,5,6,5,4,3,5
+44,Male,Cabella's,Occasionally,Outdoor camping supplies.,White,,"Greater than $100,000",633,70.5,7,7,7,7,7,7,7,7,6,7,6,,7,7,7,4,5,5,5
+40,Female,walmart,Frequently,christmas presents,White,High School/GED,"$35,001-$50,000",359,71.5,3,4,5,6,6,5,5,4,5,6,6,7,1,4,7,5,5,6,3
+25,Male,Speedy janes,Occasionally,Cannabis,Hispanic/Latino,Some College/Associates Degree,"Greater than $100,000",307,72.5,6,6,6,7,7,6,7,7,6,6,6,6,2,5,6,5,5,3,5
+64,Female,Costco,Rarely,Groceries,Hispanic/Latino,Graduate/Professional Degree,"$75,000-$100,000",260,73,,7,,,,,7,,6,6,6,6,1,6,6,6,4,5,1
+64,Male,Price Chopper,Somewhat Frequently,Groceries,White,High School/GED,"$50,001-75,000",195,75.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,2,2,1
+49,Female,Walmart,Somewhat Frequently,Christmas presents ,White,Bachelor's degree,"$75,000-$100,000",742,75.5,6,6,7,7,7,7,7,7,6,5,5,6,3,6,7,5,5,5,3
+30,Female,macy,Occasionally,good,Hispanic/Latino,Some College/Associates Degree,"$20,000 less",214,76,5,5,5,5,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4
+72,Male,Old Navy,Somewhat Rarely,children's clothes,White,Bachelor's degree,"Greater than $100,000",232,77,6,6,6,7,7,7,7,7,6,5,6,5,5,5,6,4,5,4,4
+67,Female,K-Mart,Occasionally,going out of business sale,White,,"$75,000-$100,000",111,77,4,4,4,4,4,4,4,4,5,4,4,,1,1,1,2,3,5,2
+47,Female,New York & Company,Somewhat Frequently,Clothes,White,Bachelor's degree,"$20,001-$35,000",168,77,,,2,,,1,,,7,7,7,7,1,7,7,7,6,1,1
+36,Female,Express,Occasionally,Tops,White,Graduate/Professional Degree,"$50,001-75,000",508,77.5,6,6,7,6,7,6,6,6,6,7,6,7,1,6,7,2,7,6,6
+71,Female,Provisions,Somewhat Frequently,"Food, herbs, coffee",White,High School/GED,"Greater than $100,000",156,78,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,7,3
+67,Female,jcpenny,Somewhat Frequently,gifts,Black,High School/GED,"$20,001-$35,000",317,80.5,5,5,4,6,6,6,6,6,6,6,6,6,1,6,6,1,5,5,1
+49,Female,Barnes and Noble,Frequently,Baby item,White,Some College/Associates Degree,"$35,001-$50,000",234,83,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,7,7,5
+61,Female,Betty's Country Store ,Occasionally,Different things ,White,High School/GED,"$20,000 less",206,83.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+67,Female,Talbots,Somewhat Frequently,Slacks,White,Bachelor's degree,"$50,001-75,000",306,85.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,5,1,1
+37,Male,Sam,Occasionally,Clothes,White,Bachelor's degree,"Greater than $100,000",410,88.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,7,7,7,7
+57,Female,Winco,Occasionally,finding a good buy,White,Some College/Associates Degree,"$20,001-$35,000",255,92.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,4,4,4
+57,Male,TJ Maxx,Somewhat Frequently,Snacks and toiletries,White,Some College/Associates Degree,"$75,000-$100,000",325,94.5,6,6,5,7,6,6,6,6,6,7,6,7,1,6,7,2,5,3,1
+39,Female,K-Mart,Somewhat Rarely,Personal Care Items,White,Graduate/Professional Degree,"$75,000-$100,000",150,94.5,2,2,1,2,2,2,2,2,2,2,2,1,2,1,2,1,5,1,1
+56,Female,Zulily ,Somewhat Frequently,Clothes ,White,,"$20,000 less",168,99.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,4,6,6
+60,Female,nordstrom,Somewhat Frequently,dress,White,Bachelor's degree,"Greater than $100,000",165,102.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+66,Female,Belks,Somewhat Rarely,sales,Black,Some College/Associates Degree,"$35,001-$50,000",365,106.5,7,7,7,6,6,6,6,6,6,6,6,6,1,6,6,1,6,6,2
+32,Female,walmart,Frequently,everything,White,Bachelor's degree,"Greater than $100,000",542,106.5,7,7,7,7,6,7,7,7,7,6,7,7,6,7,7,7,6,6,7
+34,Female,WALMART,Frequently,GROCERIES,White,High School/GED,"$50,001-75,000",132,107,1,1,1,1,1,1,1,1,1,1,1,4,4,4,4,7,7,4,1
+58,Female,Target,Occasionally,a cabinet,White,Bachelor's degree,"Greater than $100,000",202,109.5,6,5,6,5,5,6,6,6,5,5,5,6,1,5,6,2,7,6,5
+69,Female,Neiman Marcus,Somewhat Frequently,apparel,White,Graduate/Professional Degree,"Greater than $100,000",166,113.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+59,Male,Publix,Frequently,Food products,White,Some College/Associates Degree,"$20,000 less",227,115,7,7,7,7,7,7,7,7,7,7,7,7,1,5,7,2,5,5,3
+60,Female,T.J. Maxx,Somewhat Frequently,Luxury Soap,Hispanic/Latino,Bachelor's degree,"Greater than $100,000",172,117.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,6,5
+18,Female,TjMaxx,Somewhat Frequently,Activewear ,White,Some College/Associates Degree,"Greater than $100,000",158,117.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,7,7,2
+36,Male,aldi,Frequently,international food,White,Bachelor's degree,"$50,001-75,000",1724,118.5,6,7,5,7,5,6,6,,5,6,7,6,5,6,6,5,6,7,6
+64,Female,CVS,Occasionally,Rx,White,Some College/Associates Degree,"$35,001-$50,000",129,122.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,6,6,4
+71,Male,Harris Teeter,Occasionally,beef tenderloin,White,Graduate/Professional Degree,"$50,001-75,000",1434,125,7,7,7,7,7,7,7,7,7,7,7,7,,7,7,1,4,5,1
+35,Female,Burkes,Rarely,Christmas present for my mom,White,Graduate/Professional Degree,"$50,001-75,000",4626,125.5,4,4,4,5,4,5,4,5,4,5,4,5,3,4,5,4,6,5,4
+77,Male,belks,Somewhat Frequently,fleece shirts,White,Bachelor's degree,"$50,001-75,000",261,126.5,7,7,7,7,7,7,7,7,6,6,6,6,2,6,6,2,5,5,4
+60,Male,Macys,Occasionally,perfume,White,Bachelor's degree,"Greater than $100,000",156,133.5,5,5,5,5,5,6,6,6,6,5,5,6,2,6,6,5,5,4,3
+37,Female,Macy's,Somewhat Frequently,Clothes,Hispanic/Latino,Graduate/Professional Degree,"Greater than $100,000",114,134,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,1,6,6,7
+35,Female,Macys,Somewhat Frequently,clothing,White,Bachelor's degree,"$35,001-$50,000",173,135.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,7,7
+68,Female,Dillards,Occasionally,Make-up,White,High School/GED,"$20,001-$35,000",174,135.5,7,7,7,7,7,7,7,7,6,7,6,7,1,6,7,2,6,7,2
+60,Female,TJ Maxx,Somewhat Frequently,christmas gifts,White,Bachelor's degree,"$35,001-$50,000",168,135.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,4
+78,Female,Bronners,Occasionally,ornaments,White,High School/GED,"$35,001-$50,000",238,137,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,3,6,5,4
+55,Female,Amazon,Occasionally,camera,Other,Graduate/Professional Degree,"$20,000 less",140,140,6,6,6,6,6,6,6,6,6,6,6,6,1,6,6,5,5,5,2
+77,Female,americaneagle,Rarely,boys jeans,White,Some College/Associates Degree,"Greater than $100,000",322,143.5,,7,,,,,7,,6,6,6,6,2,6,6,2,6,6,2
+74,Female,Bealls outlet,Occasionally,Christmas gifts,White,Bachelor's degree,"$75,000-$100,000",559,144,6,6,6,5,5,6,6,7,6,6,6,6,1,6,6,5,6,6,4
+29,Female,Academy,Rarely,Fanny Pack,White,Bachelor's degree,"$20,001-$35,000",146,145,1,3,1,4,3,1,1,2,4,4,3,2,3,3,4,6,7,3,1
+51,Female,Kroger,Somewhat Frequently,meat,White,Some College/Associates Degree,"$20,001-$35,000",204,146.5,4,5,5,5,5,6,5,5,6,5,4,6,1,5,7,2,4,5,1
+29,Female,Mmart,Frequently,Great client,Hispanic/Latino,Bachelor's degree,"$35,001-$50,000",117,146.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+65,Female,Kohls,Somewhat Frequently,Myself,White,Some College/Associates Degree,"$20,001-$35,000",147,147,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+37,Female,Kohls ,Occasionally,Kids’ clothes ,White,Some College/Associates Degree,"$50,001-75,000",155,148.5,6,6,6,7,6,6,6,6,6,6,6,6,2,4,6,4,5,4,4
+59,Female,Kohl's ,Frequently,Gifts,White,High School/GED,"Greater than $100,000",120,153,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,7
+61,Female,best buy,Somewhat Frequently,tv,White,Bachelor's degree,"$50,001-75,000",191,154.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,2,1,1
+64,Female,JC Penney’s ,Occasionally,Palazzo pants,White,Some College/Associates Degree,"$50,001-75,000",434,156.5,6,7,7,6,5,5,6,6,6,6,6,5,3,4,6,4,6,5,5
+71,Male,Kohls,Rarely,Lincoln Logs,White,Graduate/Professional Degree,"$35,001-$50,000",187,156.5,5,5,7,6,6,7,7,6,5,4,4,4,4,3,5,2,3,5,5
+45,Female,Target,Frequently,Food and health items and Christmas,Hispanic/Latino,Some College/Associates Degree,"$20,001-$35,000",396,156.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,5,3
+72,Female,duane reade,Frequently,vitamins,White,,"$20,000 less",217,159,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,5,5,4
+71,Female,bed bath and beyond,Occasionally,towels,White,Graduate/Professional Degree,"$20,001-$35,000",153,160.5,7,5,7,5,7,7,7,7,7,7,7,7,1,7,7,3,7,6,3
+27,Male,Target,Somewhat Frequently,Underwear,White,Some College/Associates Degree,"$20,001-$35,000",180,160.5,5,6,4,5,5,6,5,5,7,7,7,7,1,4,7,5,6,7,7
+88,Female,Fred Meyer,Frequently,bakery products,White,Graduate/Professional Degree,"$35,001-$50,000",190,163,1,2,4,4,5,4,4,5,6,6,6,6,1,6,6,5,4,4,2
+37,Female,Nordstrom,Rarely,mens hats,White,High School/GED,"$35,001-$50,000",128,163,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,2,1,1
+58,Female,Lane Bryant,Somewhat Frequently,Bras,White,Some College/Associates Degree,"$50,001-75,000",104,164,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,4
+23,Female,Forever 21,Somewhat Frequently,A sweater ,White,Bachelor's degree,"$20,000 less",179,167.5,7,7,7,7,7,7,7,7,7,7,7,6,2,6,7,3,5,7,6
+60,Female,Menards,Occasionally,Christmas ,White,High School/GED,"$35,001-$50,000",187,168.5,6,6,6,6,6,6,6,6,7,7,7,7,2,6,7,1,7,5,4
+56,Male,walmart,Frequently,toilet hose,Black,Some College/Associates Degree,"$20,001-$35,000",196,172,7,7,6,7,7,7,7,7,6,6,6,7,1,7,7,2,5,2,1
+38,Female,amazon,Occasionally,gifts,White,Bachelor's degree,"$35,001-$50,000",276,173.5,5,5,6,6,6,6,5,5,5,6,6,6,6,5,6,5,5,6,6
+48,Female,macys,Occasionally,cooking pans,Black,Bachelor's degree,"$20,001-$35,000",1290,178,6,6,5,4,4,4,4,4,6,6,6,6,6,6,6,6,6,6,6
+18,Female,Forever 21,Somewhat Frequently,Clothes,Hispanic/Latino,High School/GED,"$20,001-$35,000",273,178.5,7,7,7,7,7,7,7,7,6,6,1,7,1,4,7,1,6,7,5
+57,Female,walmart,Somewhat Frequently,food,White,High School/GED,"$20,000 less",283,178.5,6,5,5,2,2,2,3,3,5,4,4,7,1,6,7,5,5,4,2
+43,Male,Disney,Occasionally,Toy for my daughter,Hispanic/Latino,Some College/Associates Degree,"$75,000-$100,000",465,181,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,5,6,6
+60,Female,Kohl’s ,Somewhat Frequently,Clothes,White,High School/GED,"$75,000-$100,000",256,182.5,6,6,6,6,7,7,6,6,6,7,7,6,1,6,6,2,6,7,6
+30,Male,Walmart,Frequently,I like,White,Graduate/Professional Degree,"$75,000-$100,000",118,184,7,6,7,6,7,6,6,6,6,6,7,7,6,6,7,6,7,6,6
+44,Female,Meijer,Frequently,Groceries ,White,Graduate/Professional Degree,"Greater than $100,000",201,188,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,6,5,4
+51,Female,Fred Meyer,Frequently,Holiday Item,White,High School/GED,"$20,001-$35,000",181,191.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,6,6,4,4
+87,Female,joy's boutique,Somewhat Frequently,winter clothes i.e. sweaters,White,Graduate/Professional Degree,"$50,001-75,000",296,192.5,,,7,,,,7,,7,7,7,6,1,7,7,2,7,6,2
+77,Female,shop rite,Frequently,groceries,White,,"$50,001-75,000",267,193.5,7,6,6,6,6,6,6,6,6,6,6,7,2,6,7,5,4,3,2
+35,Female,VStock,Occasionally,Christmas gifts,White,Some College/Associates Degree,"$20,000 less",134,193.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,7,6,1,2
+23,Male,amazon,Frequently,blanket,Black,High School/GED,"$50,001-75,000",19099,203,7,6,7,7,7,6,7,5,6,7,7,6,6,5,6,7,6,6,7
+76,Female,Cancer Connection Thrift Shop,Somewhat Frequently,Just shopping! I like surprises ,White,Graduate/Professional Degree,"$20,001-$35,000",314,205,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,7,7,6
+37,Female,Antigone books,Occasionally,Christmas gifts ,White,Graduate/Professional Degree,"$50,001-75,000",181,207.5,7,6,6,6,6,6,6,6,7,7,7,7,1,6,7,6,4,2,1
+74,Male,Spencer's Appliance,Somewhat Rarely,Refrigerator,White,Graduate/Professional Degree,"$75,000-$100,000",215,208,3,5,6,5,6,6,4,6,6,6,6,6,2,6,6,4,6,5,4
+49,Male,cabellas,Occasionally,Guns,White,Bachelor's degree,"Greater than $100,000",207,209,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,2,1,1
+71,Female,dol,Somewhat Frequently,toiletries,White,Graduate/Professional Degree,"$20,001-$35,000",124,210,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,6,6,6
+64,Female,J C Penneys,Occasionally,clothes,White,Some College/Associates Degree,"$75,000-$100,000",235,212.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,4,4,4
+27,Female,Target,Frequently,Cookie dough,White,Bachelor's degree,"$75,000-$100,000",286,215.5,4,5,4,7,7,7,7,7,6,6,6,6,2,6,6,3,5,5,5
+56,Male,cabellas,Somewhat Frequently,winter clothing,White,Some College/Associates Degree,"Greater than $100,000",215,217,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,3,7,3
+33,Female,Walmart and target ,Occasionally,Decor and new things,White,Other,"$20,000 less",315,217.5,6,5,4,5,5,4,5,5,6,6,5,6,5,6,5,4,2,6,2
+55,Male,aldi,Somewhat Frequently,gifts,White,,,122,218.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2,5,5,5
+61,Female,Walmart,Frequently,groceries,White,Some College/Associates Degree,"$75,000-$100,000",137,218.5,5,5,5,5,5,5,5,5,5,6,6,6,1,6,6,5,5,5,5
+74,Male,St. Patrick's Guild,Occasionally,Christmas gifts,Native American,Bachelor's degree,"$35,001-$50,000",283,221.5,7,7,7,7,7,7,7,7,6,4,4,6,2,4,6,4,4,4,2
+41,Female,Jc Penney,Occasionally,Electric Skillet,White,Bachelor's degree,"Greater than $100,000",96,222,7,5,5,6,6,7,7,7,5,4,4,5,2,5,6,3,2,6,6
+69,Female,Hobby Lobby,Frequently,material and home decor,White,Bachelor's degree,"$35,001-$50,000",302,223.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,7,7,7
+40,Female,Burlington,Rarely,Coat and dresses,White,Other,"$20,000 less",170,226.5,3,3,3,,,3,,,6,5,5,1,5,1,5,7,1,1,1
+57,Female,macys,Occasionally,treats,White,High School/GED,"$20,000 less",100,233,6,6,6,7,6,6,7,6,5,5,5,6,5,6,6,2,3,2,2
+76,Female,CVS,Somewhat Frequently,,White,,"$50,001-75,000",185,234.5,7,7,7,,,,,,7,7,5,7,1,7,7,4,7,7,6
+65,Female,Amazon,Frequently,Instant Pot,White,Bachelor's degree,"$20,001-$35,000",468,240,6,6,7,7,7,7,7,6,7,7,7,7,1,7,7,4,5,5,2
+51,Female,TJMaxx,Somewhat Frequently,browsing,White,Some College/Associates Degree,"Greater than $100,000",127,240,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,7,5
+57,Female,American Giant,Somewhat Rarely,Men's jacket,White,Some College/Associates Degree,"Greater than $100,000",167,244.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,5,5,2
+58,Female,Meijer,Frequently,Food and household items,Native American,Some College/Associates Degree,"$20,000 less",261,247,5,7,4,4,4,4,4,4,5,5,5,6,1,6,6,1,6,6,2
+37,Female,petco,Somewhat Rarely,dog food,White,High School/GED,"$20,001-$35,000",98,248,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,4,4,6,5
+71,Female,walmart,Somewhat Frequently,Christmas,White,High School/GED,"$20,001-$35,000",192,250,6,6,7,7,7,7,7,7,6,6,6,6,1,6,6,4,6,6,4
+63,Female,Walmart,Occasionally,peanuts,Native American,Some College/Associates Degree,"$50,001-75,000",201,251.5,2,1,2,1,1,1,1,1,3,3,3,4,4,4,4,4,6,5,4
+74,Female,Father & Son Jewelers,Occasionally,Repairs,White,Graduate/Professional Degree,"Greater than $100,000",158,254,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5
+69,Female,Ikea,Rarely,lamp,White,Some College/Associates Degree,"$35,001-$50,000",2034,255,7,7,7,7,7,7,7,7,7,7,5,5,1,6,7,2,7,7,5
+67,Male,frys,Somewhat Frequently,grocerys,White,Graduate/Professional Degree,"$20,001-$35,000",414,255,6,7,6,6,7,7,5,6,6,6,5,6,1,6,7,2,5,6,3
+75,Female,Kohls,Somewhat Frequently,bedding for my 2 great grandchildren,White,Some College/Associates Degree,"$50,001-75,000",207,261.5,6,5,6,6,6,6,6,6,5,5,5,6,1,5,5,4,5,5,4
+63,Female,Walmart,Frequently,Turkey legs,White,High School/GED,"$75,000-$100,000",779,263.5,3,2,2,2,2,1,2,2,2,2,2,2,3,3,6,1,7,7,6
+64,Female,BURLINGTON,Rarely,SHOES,Other,Graduate/Professional Degree,"$20,000 less",224,265,7,7,7,7,7,7,,7,7,6,6,6,1,5,7,5,6,7,1
+38,Male,target,Occasionally,food,White,,,750,265.5,7,5,7,5,7,5,7,5,7,5,6,7,2,5,7,1,4,6,6
+64,Female,LL Bean,Rarely,Just looking,White,Graduate/Professional Degree,"Greater than $100,000",2399,267,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,5,6,5
+71,Female,Kohls,Somewhat Frequently,Christmas gifts,White,High School/GED,"$20,001-$35,000",158,268.5,7,7,7,7,7,7,7,,7,7,7,7,1,7,7,2,5,5,4
+63,Female,Old Navy,Rarely,Granddaughter ,White,Some College/Associates Degree,"$50,001-75,000",399,271.5,6,6,7,4,5,4,4,5,5,5,4,3,4,3,4,7,4,5,4
+55,Female,Target,Occasionally,Christmas Gifts,White,Graduate/Professional Degree,"Greater than $100,000",430,279.5,7,7,7,7,7,7,7,7,6,7,7,7,1,6,7,2,1,5,4
+64,Female,Bed Bath and Beyond ,Occasionally,Bathroom accessories ,White,Graduate/Professional Degree,"$50,001-75,000",338,281,7,7,7,7,7,7,7,7,6,7,6,5,2,4,6,2,6,6,6
+26,Female,Target,Somewhat Frequently,clothing,White,Bachelor's degree,"$75,000-$100,000",299,282.5,6,5,6,7,7,7,7,7,7,6,6,7,1,6,7,5,7,3,3
+37,Female,Dillards ,Somewhat Frequently,Shoes,Hispanic/Latino,High School/GED,"Greater than $100,000",320,284.5,7,7,7,6,6,6,7,7,6,6,6,6,1,6,7,3,6,6,6
+66,Male,Amazon ,Occasionally,Soap pump,White,Bachelor's degree,"Greater than $100,000",142,291,6,6,6,5,5,6,5,5,6,6,6,6,3,5,6,2,4,5,5
+46,Female,Walmart,Occasionally,Christmas ,White,Bachelor's degree,"$20,000 less",131,292.5,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,5,5,5,1
+74,Female,walmart,Frequently,groceries,Other,High School/GED,,240,293,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,4,4,1
+62,Female,Macys,Occasionally,dresses,White,High School/GED,"$20,001-$35,000",324,294,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,2,6,7,6
+71,Female,Target,Somewhat Frequently,Bandaids,White,Some College/Associates Degree,"$20,000 less",405,298.5,6,6,3,5,4,4,3,3,5,7,7,7,1,7,7,1,7,6,1
+83,Female,target,Somewhat Frequently,various,White,Other,"$20,001-$35,000",580,301,6,6,6,5,5,5,5,5,5,5,5,6,1,6,6,3,5,6,6
+60,Male,kohls,Occasionally,shirts,White,Graduate/Professional Degree,"Greater than $100,000",135,309.5,5,5,5,5,5,5,5,5,5,5,4,5,2,5,5,4,5,4,3
+59,Female,Walmart,Frequently,sweatshirts,White,Some College/Associates Degree,"$20,000 less",155,311,6,6,6,6,6,6,6,6,7,7,7,7,1,7,7,3,4,5,1
+50,Male,Nordstrom,Somewhat Frequently,Boots,Hispanic/Latino,Graduate/Professional Degree,"Greater than $100,000",284,314.5,7,7,7,6,7,7,7,7,7,7,7,7,1,7,7,1,6,6,6
+44,Female,macys,Frequently,cloths,Hispanic/Latino,Graduate/Professional Degree,"$50,001-75,000",249,318.5,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,2,7,7,7
+70,Female,steunmart,Occasionally,sweaters,White,Some College/Associates Degree,"Greater than $100,000",226,320,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+77,Male,Walmart,Somewhat Frequently,Coat,White,High School/GED,"$35,001-$50,000",193,324,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,6,5,4
+57,Female,Original Pancake House,Occasionally,gift card,East Asian,Some College/Associates Degree,"$20,000 less",1255,329.5,1,4,1,1,1,1,1,4,4,4,4,4,2,4,5,2,6,6,6
+71,Male,Khols,Occasionally,Pants,White,Some College/Associates Degree,"$35,001-$50,000",141,329.5,7,7,7,7,7,7,7,7,5,5,5,5,2,5,5,4,5,5,5
+70,Female,macy's ,Occasionally,sheets,White,Some College/Associates Degree,"$50,001-75,000",545,330.5,7,7,7,7,7,7,7,7,7,7,7,6,2,6,6,5,6,6,3
+69,Male,amazon,Somewhat Frequently,gifts,White,Graduate/Professional Degree,"$20,001-$35,000",239,338,7,7,7,7,7,7,7,7,7,7,7,6,1,6,6,5,6,6,3
+48,Female,Brides by Young,Rarely,Wedding Dress,White,Graduate/Professional Degree,"Greater than $100,000",127,339,7,7,7,7,7,7,7,7,7,7,7,1,7,4,1,5,5,1,1
+59,Female,Walmart,Frequently,Frozen roast beef ,White,Graduate/Professional Degree,"$35,001-$50,000",232,340,7,1,1,1,1,1,1,1,7,7,7,7,1,7,,1,5,5,3
+46,Female,Petsmart,Occasionally,Betta fish,Black,Bachelor's degree,"Greater than $100,000",145,340.5,6,6,4,6,6,7,7,7,6,6,6,6,1,6,7,1,7,7,7
+51,Female,Goodwill,Somewhat Frequently,Home decor,White,Bachelor's degree,"Greater than $100,000",100,343,7,7,7,7,7,7,7,7,6,7,4,7,,1,7,1,4,7,3
+30,Female,Walmart,Somewhat Frequently,Food (groceries),White,Graduate/Professional Degree,"$75,000-$100,000",149,343.5,3,4,3,3,2,3,3,3,4,3,3,4,2,3,5,5,5,3,2
+52,Female,Macy's,Somewhat Frequently,houseware,Black,Bachelor's degree,"$50,001-75,000",1036,348,7,7,7,7,7,7,7,7,6,7,6,5,2,6,6,6,1,2,1
+28,Female,Kohls,Rarely,Clothing,Other,Some College/Associates Degree,"$20,001-$35,000",241,350,,,7,,,,,7,6,6,6,6,2,6,6,5,7,6,6
+49,Female,Georgia Mega Mall,Somewhat Frequently,Christmas,Prefer not to answer,Some College/Associates Degree,"$20,000 less",230,366,6,6,6,6,6,6,7,7,6,7,7,5,1,6,7,7,7,2,3
+73,Male,car dealership,Rarely,automobile,White,Graduate/Professional Degree,"Greater than $100,000",153,367.5,5,5,6,6,5,6,6,6,4,3,5,5,6,5,5,5,4,3,5
+55,Female,Khloe's ,Occasionally,Air fryer ,White,Some College/Associates Degree,"$20,001-$35,000",259,369.5,,,,,,,,,,6,6,6,1,6,7,3,2,4,2
+30,Female,Target,Occasionally,Organizational products,Black,Bachelor's degree,"Greater than $100,000",142,380,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,6,7,1
+55,Female, Neiman marcus ,Somewhat Frequently,Gourmet hot chocolagr,White,Bachelor's degree,"Greater than $100,000",578,382,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,4,7,4,4
+67,Female,Kohls,Occasionally,Shoes,Hispanic/Latino,Graduate/Professional Degree,"$75,000-$100,000",235,383,7,7,7,7,7,7,7,7,6,7,7,7,2,7,7,2,6,6,2
+70,Male,Amazon.com,Somewhat Frequently,Camera case,White,High School/GED,"$35,001-$50,000",695,386,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,3,2,1
+61,Male,home depot,Somewhat Frequently,flooring,White,Bachelor's degree,"$50,001-75,000",216,393,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,5,4,4
+59,Female,We ARe Nuts,Somewhat Frequently,nuts and other food products,White,Graduate/Professional Degree,"$35,001-$50,000",152,394.5,6,6,7,6,7,6,6,6,7,7,7,6,1,6,7,3,4,3,1
+53,Female,Walmart,Somewhat Frequently,Toys for special needs kids,White,,"$75,000-$100,000",379,395.5,7,7,7,7,7,7,7,7,6,4,4,6,1,4,6,5,5,5,1
+66,Female,Kohl's,Occasionally,Christmas wrap,East Asian,Bachelor's degree,"$75,000-$100,000",131,397,7,7,7,7,7,7,7,7,7,7,7,7,1,6,6,4,6,6,4
+59,Female,vf outlet,Rarely,handbag,White,Bachelor's degree,"$50,001-75,000",380,397.5,7,7,7,7,7,7,7,7,7,7,7,7,1,4,7,5,4,6,2
+58,Female,target,Occasionally,storage,White,Some College/Associates Degree,"$20,000 less",242,398,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,4,4,3,3
+58,Female,Home Depot ,Somewhat Frequently,Screen door ,White,High School/GED,"$75,000-$100,000",163,398.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,6,7
+63,Female,Carters,Occasionally,Children’s clothing ,White,Bachelor's degree,"Greater than $100,000",134,402,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,5,5,4
+53,Male,Wiebolt,Occasionally,Tj maxx,East Asian,Bachelor's degree,"$75,000-$100,000",530,406.5,6,6,6,6,6,6,6,6,6,6,7,6,1,5,6,3,5,6,5
+65,Female,Lamecker's General Store,Occasionally,dog toys,White,Bachelor's degree,"$20,001-$35,000",321,408.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,5,6,3
+61,Female,Target,Somewhat Frequently,Hangers,Other,Some College/Associates Degree,"$35,001-$50,000",254,409,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,5,5,2
+54,Female,costco,Frequently,gloves,White,Graduate/Professional Degree,"Greater than $100,000",613,409,7,7,7,7,7,7,7,7,7,7,7,7,1,7,,3,3,4,3
+77,Female,Kohls,Somewhat Frequently,Christmas gifts,White,High School/GED,"$20,001-$35,000",175,411,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,6,6,6
+64,Female,shoprite,Somewhat Frequently,groceries,White,Bachelor's degree,"$20,001-$35,000",296,415.5,1,1,1,1,1,1,1,1,1,1,2,5,2,1,5,1,7,7,5
+74,Female,Homegoods,Somewhat Frequently,dog food holder,White,Graduate/Professional Degree,"Greater than $100,000",154,418.5,7,6,7,7,7,7,6,6,6,6,6,7,1,6,7,2,7,7,4
+60,Female,walmart,Frequently,coffee creamer,Other,Some College/Associates Degree,"$20,001-$35,000",270,419,7,7,7,7,7,7,7,7,7,7,7,7,1,7,1,1,7,7,4
+66,Female,Kohl’s ,Somewhat Frequently,Gifts,White,Some College/Associates Degree,"$75,000-$100,000",224,423,7,7,7,,,,,,7,7,7,7,1,7,7,1,7,7,7
+71,Female,aldi,Somewhat Frequently,groceries,White,Some College/Associates Degree,"$20,001-$35,000",721,424,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,3,3,1
+71,Male,Dillards,Somewhat Rarely,Variety of items,White,Bachelor's degree,"$75,000-$100,000",291,430.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,6,6,6
+62,Female,KMART,Somewhat Rarely,christmas,White,Some College/Associates Degree,"$20,000 less",160,430.5,7,7,7,7,7,7,7,7,7,7,7,1,6,7,3,1,7,7,6
+57,Female,Hobby Lobby,Occasionally,Xmas craft supplies,White,Some College/Associates Degree,"$20,000 less",383,442.5,7,7,7,,,,7,,7,7,7,7,1,7,7,4,7,6,5
+70,Female,Zulilly,Occasionally,Christmas gifts,White,Some College/Associates Degree,"$35,001-$50,000",255,445,6,6,7,7,7,7,7,7,7,7,7,7,1,7,7,4,5,6,4
+59,Female,Barnes and Noble ,Somewhat Frequently,Books,White,Bachelor's degree,"$50,001-75,000",193,451.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,7,7,5
+42,Female,Walmart,Frequently,Calendar,White,Bachelor's degree,"Greater than $100,000",110,469,4,4,3,3,3,3,3,3,4,3,3,5,4,5,5,6,2,2,2
+57,Female,Tractor Supply,Rarely,pet supplies,White,Some College/Associates Degree,"$20,001-$35,000",464,473,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,2,5,6,5
+61,Male,Aldi,Frequently,Fruit,White,,"Greater than $100,000",194,483,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,5,4,1
+70,Female,Imaginuity,Occasionally,toys,White,Some College/Associates Degree,"Greater than $100,000",313,490,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,5,6,2
+64,Female,Best buy,Somewhat Rarely,Laptop,White,Graduate/Professional Degree,"$50,001-75,000",292,497.5,7,7,7,7,,,,,6,6,6,6,2,6,6,5,6,6,5
+70,Female,Anderson Creek resale,Somewhat Frequently,Everything,White,Some College/Associates Degree,"$20,001-$35,000",278,500.5,,,7,,7,,,,6,6,6,5,4,2,5,5,2,3,1
+55,Female,Publix,Somewhat Frequently,Submarine sandwich,White,Bachelor's degree,"$20,000 less",167,501.5,3,3,3,3,3,4,3,3,4,5,4,5,2,5,7,5,4,1,1
+68,Female,JC Penny,Somewhat Frequently,Bed sheets,White,Some College/Associates Degree,"Greater than $100,000",114,503,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,6,6,7,3
+38,Male,kohls,Somewhat Frequently,children cloth,White,,"$50,001-75,000",1184,508,6,6,6,7,6,6,6,6,6,6,6,7,1,6,7,3,5,5,5
+63,Male,Walmart,Frequently,Single up coffee maker,White,Bachelor's degree,"$20,001-$35,000",189,513.5,6,7,6,7,6,6,7,6,6,6,6,7,1,7,7,5,6,5,5
+66,Male,sams,Occasionally,tv,White,Bachelor's degree,"$20,000 less",287,528.5,6,5,6,6,6,7,7,6,6,6,6,6,2,6,6,2,4,6,3
+58,Female,Safeway,Somewhat Frequently,Deli broccoli salad,White,Bachelor's degree,"$35,001-$50,000",543,528.5,7,7,6,7,7,7,7,7,6,6,6,7,1,7,7,3,5,2,1
+69,Female,Michael's,Occasionally,Fur Pom poms,White,High School/GED,"$35,001-$50,000",325,539.5,7,6,7,7,7,7,7,7,6,6,7,7,1,6,6,2,6,5,5
+36,Female,dolls kill,Somewhat Frequently,clothes,White,Some College/Associates Degree,"$35,001-$50,000",464,542.5,4,5,5,5,5,6,5,5,4,3,5,5,4,4,4,4,5,4,4
+61,Male,POLO,Occasionally,Christmas gifts,Hispanic/Latino,Graduate/Professional Degree,"Greater than $100,000",1184,552,7,7,6,7,7,7,7,7,6,6,6,5,2,6,6,4,7,4,3
+69,Female,Macys,Somewhat Frequently,mens sweater,White,Graduate/Professional Degree,"$50,001-75,000",219,578,7,7,7,7,7,7,7,,6,6,7,7,1,7,7,2,6,6,6
+61,Male,albertsons,Frequently,seafood,White,Some College/Associates Degree,"$75,000-$100,000",144,587,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,6,5
+41,Female,Backcountry,Occasionally,Bike shorts,White,Bachelor's degree,"Greater than $100,000",2609,591,7,7,7,7,7,7,7,7,7,7,7,7,1,7,,3,3,3,1
+75,Female,macys,Somewhat Frequently,clothes,Black,High School/GED,"$50,001-75,000",201,595,7,7,7,7,7,7,7,7,6,6,6,6,2,6,6,2,6,5,5
+52,Female,Fingerhut,Occasionally,tablet,White,Some College/Associates Degree,"$20,000 less",354,600,7,7,7,7,7,7,7,7,7,7,7,7,1,5,7,2,5,5,1
+48,Female,walmart,Frequently,everything,White,Some College/Associates Degree,"$20,001-$35,000",355,600,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,7,2
+65,Female,Kohls,Occasionally,Clothes,White,Some College/Associates Degree,"$35,001-$50,000",462,604,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,2,5
+36,Female,Big 5,Somewhat Rarely,BB Gun,White,Some College/Associates Degree,"$20,000 less",7225,608,7,7,7,7,7,7,7,7,7,6,6,5,2,5,7,5,6,5,5
+71,Female,dress barn,Somewhat Frequently,clothing,White,Some College/Associates Degree,"$75,000-$100,000",160,615.5,7,7,7,6,6,6,7,7,6,6,5,6,1,6,6,3,6,6,6
+42,Female,Food lion ,Frequently,Food,White,Some College/Associates Degree,"Greater than $100,000",314,643,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,2,5,6,2
+36,Female,Old Navy,Occasionally,Kids shoes and fall clothing,Black,Bachelor's degree,"$75,000-$100,000",198,652.5,6,7,7,6,6,6,,,6,6,6,6,2,4,7,4,5,3,2
+73,Female,Stage,Somewhat Frequently,clothes and shoes,White,Some College/Associates Degree,"$50,001-75,000",250,652.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,6,6,3
+73,Female,Bobs furniture ,Occasionally,Bedroom set ,White,Some College/Associates Degree,"$50,001-75,000",156,662.5,6,6,6,6,6,6,6,6,5,4,4,5,3,5,5,5,3,3,3
+44,Female,Maurices,Occasionally,Clothes,White,Bachelor's degree,"$20,001-$35,000",251,677,7,7,7,6,6,6,6,6,7,7,7,7,1,7,7,5,6,6,5
+83,Female,Macys,Frequently,A gift for a grandson,White,Graduate/Professional Degree,"$50,001-75,000",312,680.5,2,2,4,2,2,3,2,3,4,4,4,5,2,5,7,4,5,5,5
+51,Female,dollar tree,Occasionally,christmas,Black,Bachelor's degree,"$20,000 less",153,709.5,4,4,4,4,4,4,4,4,6,7,6,7,1,7,7,5,4,1,1
+18,Female,Sephora ,Occasionally,Makeup,Hispanic/Latino,Some College/Associates Degree,"$20,000 less",112,713,6,6,6,7,5,5,5,6,3,5,4,4,5,4,6,2,6,2,2
+64,Female,Amazon,Somewhat Frequently,Kitchen items,White,Bachelor's degree,"$35,001-$50,000",307,776.5,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,5,5,5,3
+66,Female,Amazon,Frequently,Cat toys,White,High School/GED,"$20,001-$35,000",85137,778.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,4,2,1
+58,Female,Family Dollar,Frequently,cigarettes,White,Some College/Associates Degree,"$20,000 less",150,800.5,7,7,7,7,7,7,7,7,6,7,6,7,1,6,7,4,5,3,1
+47,Female,marshalls,Frequently,back to school clothing,White,Bachelor's degree,"Greater than $100,000",402,806.5,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,1,7,5,3
+54,Female,kohls,Occasionally,gifts,White,Some College/Associates Degree,"$20,000 less",130,833.5,6,6,6,6,6,6,6,6,6,6,6,6,2,5,6,2,6,6,4
+61,Male,Walmart,Somewhat Frequently,Pet food,White,Bachelor's degree,"$35,001-$50,000",158,846.5,1,1,1,1,1,1,1,1,2,2,2,5,4,4,5,4,6,5,5
+19,Female,Forever 21,Somewhat Rarely,A sweater ,White,Some College/Associates Degree,"$35,001-$50,000",407,849.5,5,6,7,7,7,6,7,7,5,4,4,4,4,5,5,1,7,7,5
+49,Male,walmart,Somewhat Frequently,christmas gifts,Black,Some College/Associates Degree,"$20,001-$35,000",528,853.5,5,4,6,5,5,6,5,5,6,7,5,6,2,5,5,3,5,6,4
+48,Female,Kohls,Somewhat Frequently,Christmas ornament,White,Bachelor's degree,"Greater than $100,000",142,867.5,2,2,2,2,2,2,2,2,2,3,3,4,2,3,6,5,3,4,1
+49,Male,Home Depot,Frequently,Mulch,White,Bachelor's degree,"Greater than $100,000",140,918,4,4,4,4,4,7,7,4,4,5,4,7,1,5,7,7,1,1,1
+68,Male,walmart,Frequently,kmart,Black,Some College/Associates Degree,"$50,001-75,000",157,921,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6,3,6,6,5
+65,Female,Macy's,Occasionally,Clothing,White,Some College/Associates Degree,"$50,001-75,000",198,927.5,7,7,7,7,7,7,7,7,6,6,6,6,2,6,6,2,5,5,5
+59,Female,Forever 21,Rarely,Gifts,Hispanic/Latino,High School/GED,"$50,001-75,000",575,937,,,7,,,,7,,6,6,6,5,2,4,6,2,6,6,5
+73,Male,Menards,Somewhat Frequently,tools,White,Some College/Associates Degree,"$35,001-$50,000",167,970.5,7,7,7,7,7,7,7,7,7,7,7,7,1,6,6,1,6,6,6
+44,Female,Aldis,Frequently,Groceries,White,Graduate/Professional Degree,"$75,000-$100,000",390,995,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,6,6,6
+40,Male,Walmart,Somewhat Frequently,groceries,Hispanic/Latino,Graduate/Professional Degree,"$75,000-$100,000",238,1034,1,3,3,2,2,3,2,1,2,3,3,4,2,3,4,6,5,1,4
+41,Female,Starbucks,Somewhat Frequently,Present for Xmas,Hispanic/Latino,Bachelor's degree,"$75,000-$100,000",583,1036,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1,7,2,4
+44,Male,Wal mart,Frequently,Christmas gifts,White,Some College/Associates Degree,"$50,001-75,000",393,1040.5,6,5,6,6,6,7,6,5,6,5,6,5,2,6,6,3,5,4,3
+68,Female,Tractor Supply,Frequently,equine grain,White,Bachelor's degree,"$20,000 less",206,1042.5,6,6,6,6,6,7,7,7,6,6,6,7,1,6,6,2,6,7,3
+61,Female,WALMART,Occasionally,CHRISTMAS PRESENTS,White,High School/GED,"$20,000 less",234,1044,4,4,6,4,5,6,5,6,6,6,6,6,2,6,6,6,4,1,1
+54,Female,dollar general,Frequently,coffee maker,Hispanic/Latino,Some College/Associates Degree,"$35,001-$50,000",170,1048.5,6,6,6,6,6,6,6,6,5,5,5,5,1,4,7,6,2,4,2
+72,Female,walmart,Somewhat Frequently,groceries,White,Some College/Associates Degree,"$20,000 less",180,1056,4,3,4,4,3,3,3,3,4,4,4,4,2,3,5,4,5,6,5
+78,Female,Kohls,Occasionally,shoes,White,Some College/Associates Degree,"$50,001-75,000",222,1064,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,6,3
+56,Female,Walmart,Somewhat Rarely,Television,Black,High School/GED,"$20,000 less",296,1069.5,6,6,6,7,7,7,7,7,6,6,6,6,1,6,6,2,6,6,5
+37,Female,Home Goods,Frequently,Christmas decorations,White,Graduate/Professional Degree,"$50,001-75,000",103,1078.5,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,4,7
+61,Female,Target,Occasionally,Nothing in particular,White,Bachelor's degree,"$50,001-75,000",146,1082.5,6,6,6,5,5,5,5,5,5,5,5,5,1,5,5,7,2,3,1
+78,Female,walmart.com,Frequently,food,White,Bachelor's degree,"$50,001-75,000",259,1097,7,7,7,7,7,7,7,7,6,5,6,7,1,5,7,6,3,3,1
+41,Female,cvs,Frequently,personal care items,White,Graduate/Professional Degree,"$20,001-$35,000",184,1102.5,6,6,6,6,6,6,6,6,6,6,6,6,2,6,7,2,6,4,3
+48,Female,Dillards,Occasionally,New Year’s Day sales,White,Bachelor's degree,"Greater than $100,000",192,1107.5,5,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,6,6
+89,Male,Costco,Somewhat Frequently,food,White,Graduate/Professional Degree,"$50,001-75,000",326,1109.5,7,7,7,7,7,7,7,7,6,6,6,6,2,6,6,2,5,4,5
+50,Female,grove city outlets,Occasionally,shirts and shorts,White,High School/GED,"$50,001-75,000",454,1115,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,5,6,4
+57,Female,J Crew,Rarely,Sweater for a gift,White,Graduate/Professional Degree,"Greater than $100,000",567,1117,7,7,7,7,7,7,7,7,6,4,4,5,3,4,5,4,6,6,5
+45,Male,Macy,Frequently,Macy,White,Bachelor's degree,"$50,001-75,000",334,1121.5,6,6,6,5,6,7,6,6,6,6,6,5,3,5,3,5,4,3,4
+37,Female,Kohls,Frequently,Christmas items and clothes,White,Some College/Associates Degree,"$50,001-75,000",374,1141,7,7,7,7,7,,7,7,7,7,7,7,1,4,7,5,6,5,4
+66,Female,factory outlet,Occasionally,clothing,White,Some College/Associates Degree,"$20,001-$35,000",334,1162,6,6,6,6,6,6,6,6,5,5,5,5,1,5,7,3,4,7,4
+30,Female,toy,Occasionally,toy,Hispanic/Latino,Graduate/Professional Degree,"Greater than $100,000",148,1179,3,5,5,6,5,6,4,5,3,4,5,5,4,3,4,4,5,4,4
+57,Male,lowe,Frequently,appliances,White,Some College/Associates Degree,"$50,001-75,000",123,1186,7,7,7,7,7,7,7,7,7,7,7,7,1,6,6,2,4,4,4
+33,Female,TARGET,Somewhat Frequently,SHOE RACK,White,,"$75,000-$100,000",1735,1192.5,5,5,6,5,5,5,5,5,5,5,5,5,1,6,5,2,5,6,5
+63,Female,Hannaford,Frequently,Groceries,White,Bachelor's degree,"$35,001-$50,000",789,1204,5,4,5,5,5,6,6,5,6,7,7,7,1,7,7,5,6,5,4
+36,Male,Kohls,Frequently,easy to use,White,Bachelor's degree,"Greater than $100,000",510,1204.5,6,7,6,5,7,6,6,7,7,6,5,7,6,7,6,5,6,7,6
+64,Female,Target,Occasionally,"Air freshener, drain unclogger",Black,Some College/Associates Degree,"$20,000 less",299,1207.5,7,6,7,7,6,6,7,7,7,6,6,7,1,6,7,2,4,5,4
+63,Female,Meijer,Somewhat Frequently,Groceries and deals,White,High School/GED,"$50,001-75,000",416,1210.5,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,2,7,6,4
+50,Male,amazon,Somewhat Frequently,usb flash drive ,White,Bachelor's degree,"$20,001-$35,000",738,1213.5,3,3,3,3,3,4,3,3,5,5,5,7,1,7,7,4,5,7,5
+72,Female,Homegoods,Occasionally,christmas gifts,White,Some College/Associates Degree,"$50,001-75,000",198,1218,7,7,7,7,7,7,7,7,6,6,5,6,1,6,7,4,6,6,2
+45,Female,Walgreens,Occasionally,natural nail polish,White,Bachelor's degree,"$75,000-$100,000",191,1237,5,5,6,5,6,6,6,6,4,5,4,5,1,4,5,1,7,7,6
+68,Male,lowes,Somewhat Frequently,o rings,White,Some College/Associates Degree,"$35,001-$50,000",141,1248,6,6,6,6,6,6,6,6,6,6,6,6,1,6,6,4,5,4,4
+60,Female,target,Frequently,things for christmas day ,White,High School/GED,"$50,001-75,000",255,1278,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,6,6
+59,Female,burlington,Somewhat Frequently,clothing,White,Some College/Associates Degree,"$50,001-75,000",143,1281.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,6,7,7,4
+34,Male,Walmart ,Somewhat Frequently,Meat,White,Graduate/Professional Degree,"$75,000-$100,000",146,1283.5,7,5,5,7,6,6,7,6,,7,6,6,3,6,7,7,6,5,7
+73,Female,Kohls,Somewhat Frequently,Mens slacks,White,Bachelor's degree,"Greater than $100,000",170,1300.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,5,1,1
+72,Male,Best Buy,Somewhat Rarely,65 inch TV,White,Bachelor's degree,"$50,001-75,000",238,1317,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,6,3,5,1
+60,Female,ross,Frequently,luggage,Black,Bachelor's degree,"Greater than $100,000",154,1334.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1,7,6,3
+55,Female,Walmart ,Somewhat Frequently,Food,White,Some College/Associates Degree,"$35,001-$50,000",638,1343,3,4,4,4,4,4,4,3,5,5,5,4,2,4,6,5,5,3,3
+70,Female,"JC Penney,s",Occasionally,clothes,Black,Some College/Associates Degree,"$50,001-75,000",432,1372,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,4,4,5
+79,Female,LEICESTER SQUARE CHRISTMAS MARKET,Rarely,GIFTS,White,,"Greater than $100,000",165,1374.5,7,7,7,7,7,7,7,7,7,7,7,1,1,1,1,7,7,3,1
+57,Female,dollar general,Frequently,bra,White,Some College/Associates Degree,"$20,000 less",476,1375,7,7,7,7,7,7,7,7,7,6,6,7,6,6,7,5,2,6,1
+48,Female,Chicos,Somewhat Frequently,Wrap,White,Graduate/Professional Degree,"Greater than $100,000",155,1377.5,7,7,7,7,7,7,7,7,7,6,6,7,1,5,7,2,6,5,4
+41,Female,Dollar tree,Occasionally,Candy,Other,Bachelor's degree,"$20,000 less",263,1381.5,,5,,,,,5,,5,5,5,5,3,5,5,3,5,5,3
+66,Female,Target,Somewhat Frequently,kids,White,Graduate/Professional Degree,"$50,001-75,000",127,1395.5,6,6,6,7,7,7,7,7,6,6,6,6,2,6,7,5,5,5,3
+21,Female,Dollar Tree,Occasionally,Wrapping paper ,Hispanic/Latino,Some College/Associates Degree,"$35,001-$50,000",452,1401,2,3,3,3,3,4,1,1,3,5,3,3,3,5,3,6,2,6,3
+69,Female,TJ Max,Somewhat Frequently,guesthouse furnishings,White,Some College/Associates Degree,"$35,001-$50,000",441,1426.5,7,7,7,7,7,7,7,7,7,7,6,7,1,6,7,2,5,6,1
+79,Female,Best buy,Rarely,Microwave,White,,,237,1434,6,5,7,4,5,5,6,6,6,6,6,6,5,6,6,3,6,5,3
+43,Female,Ross,Occasionally,Several items,White,Bachelor's degree,"$50,001-75,000",2863,1436,7,7,7,7,7,7,7,7,7,7,7,6,1,6,7,3,5,5,2
+60,Female,Savemart,Somewhat Frequently,wine and milk,Native American,Some College/Associates Degree,"$20,000 less",228,1440,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,3,5,3,2
+62,Female,ollies,Somewhat Rarely,bargins,White,High School/GED,"$35,001-$50,000",124,1482,7,7,7,7,7,7,7,7,7,6,7,6,7,6,6,2,6,6,6
+64,Female,Wal Mart,Frequently,Christmas,White,Some College/Associates Degree,"$20,001-$35,000",169,1486.5,5,5,4,5,5,5,5,4,5,5,5,7,1,6,7,5,6,2,1
+60,Female,target,Somewhat Frequently,christmas gifts,White,Graduate/Professional Degree,"$50,001-75,000",409,1516.5,7,6,7,7,7,7,7,7,7,6,7,7,1,6,7,4,4,5,5
+66,Female,JC Penney,Frequently,blouse,White,Bachelor's degree,"$50,001-75,000",238,1540.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,6,6
+74,Male,Publix,Frequently,groceries/paper towels,White,Some College/Associates Degree,"$20,001-$35,000",192,1543.5,3,3,6,4,5,6,6,6,3,3,3,7,1,6,7,3,3,5,1
+53,Male,kohls,Frequently,jeans,White,Bachelor's degree,"$50,001-75,000",5995,1565,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+51,Female,Macys ,Occasionally,White long sleeve shirt,White,High School/GED,"$50,001-75,000",142,1571.5,6,6,7,7,7,7,7,7,6,6,6,6,1,5,7,3,6,6,5
+72,Male,"belk,s",Somewhat Frequently,bed sheets,Black,Bachelor's degree,"$50,001-75,000",260,1573.5,6,7,6,7,6,5,7,6,6,7,7,6,1,6,7,3,7,6,3
+71,Female,mcdonalds,Occasionally,food,White,High School/GED,"$20,001-$35,000",199,1588.5,7,7,7,7,7,7,7,7,6,6,6,6,1,5,6,6,1,1,1
+48,Female,Bath and Body Works,Somewhat Rarely,Shower gel,White,Graduate/Professional Degree,"Greater than $100,000",661,1638.5,5,5,6,6,6,6,6,6,7,7,7,7,2,6,6,6,4,2,1
+72,Female,Bjs,Somewhat Frequently,TV,White,Some College/Associates Degree,"$75,000-$100,000",363,1657,5,6,6,7,7,7,7,7,6,6,6,6,2,5,6,2,5,5,2
+72,Male,big lots,Somewhat Frequently,gifts for the holidays,East Asian,Bachelor's degree,"$50,001-75,000",157,1672.5,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,5,4,5,3
+43,Female,Kohls,Frequently,2,White,High School/GED,"$50,001-75,000",179,1683.5,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,4,4
+42,Female,Ikea,Occasionally,"Plates, utensils, glassware",White,Bachelor's degree,"Greater than $100,000",122,1709,6,6,6,6,6,6,6,6,6,6,6,7,1,6,7,2,6,5,3
+70,Male,Walmart,Frequently,oil,White,High School/GED,"$20,001-$35,000",730,1712,7,7,7,7,7,7,7,7,7,7,7,7,1,1,7,1,7,7,7
+85,Female,Kmart,Rarely,clothes,Black,High School/GED,"$20,001-$35,000",242,1720,7,7,6,7,7,7,7,7,7,7,7,6,1,6,7,2,6,7,6
+36,Female,Bath and body works ,Somewhat Frequently,Soaps ,Black,Some College/Associates Degree,"$75,000-$100,000",232,1758.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,6,4
+34,Female,Target,Somewhat Rarely,toys for my kid,White,Bachelor's degree,"$20,000 less",315,1767,5,5,5,6,6,6,6,6,6,6,6,5,2,5,4,2,5,5,4
+65,Female,costco,Somewhat Frequently,clothes,White,Bachelor's degree,"$75,000-$100,000",152,1842.5,6,5,6,6,6,6,6,6,7,6,6,6,1,6,6,3,5,4,4
+72,Male,fred meyer,Occasionally,bedding,White,Some College/Associates Degree,"Greater than $100,000",525,1925,6,6,6,6,6,6,6,6,6,6,5,6,1,5,6,4,4,4,4
+29,Male,walmart,Frequently,toys,White,Bachelor's degree,"$50,001-75,000",412,1961,7,7,7,7,7,7,7,7,7,7,6,7,1,7,7,1,7,6,7
+35,Male,Ebay,Frequently,Lawn Mower,White,High School/GED,"Greater than $100,000",269,2006.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+62,Female,Cost Plus World Market,,wall art,White,Bachelor's degree,"$20,001-$35,000",1013,2081.5,7,7,7,6,6,7,7,7,6,7,7,7,1,6,7,3,7,6,2
+67,Female,Lululemon,Occasionally,Pants,White,Graduate/Professional Degree,"$20,000 less",130,2107,6,6,6,6,6,6,6,6,7,7,6,6,1,6,6,4,4,5,1
+73,Female,Macys,Somewhat Frequently,Grandkids ,White,Bachelor's degree,"Greater than $100,000",258,2180,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,2,7,7,5
+71,Male,Meskawi gift shop,Rarely,to use my casino comps,White,Graduate/Professional Degree,"$75,000-$100,000",1608,2627,7,7,6,7,7,7,6,6,6,5,4,4,4,2,6,4,6,4,2
+45,Female,Macy's,Frequently,gifts for my family,White,High School/GED,"$50,001-75,000",239,2661,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+82,Female,Amazon,Somewhat Frequently,Medium weight winter jacket,Black,Graduate/Professional Degree,"$35,001-$50,000",347,2707,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,2,6,7,1
+72,Female,Soma,Occasionally,bras,White,Some College/Associates Degree,"$50,001-75,000",222,2728,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,2,7,7,3
+50,Male,Strand Bookstore,Frequently,books ,Native American,Graduate/Professional Degree,"$75,000-$100,000",219,2787,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+71,Male,the home depot,Somewhat Frequently,battery leaf blower,White,High School/GED,"$50,001-75,000",180,2848.5,6,5,6,6,7,7,7,6,4,5,5,5,1,4,6,6,6,7,6
+64,Female,Kohls,Frequently,Xmas gifts,White,Graduate/Professional Degree,"$75,000-$100,000",300,2852.5,7,7,7,7,7,6,7,6,6,5,5,6,1,6,6,5,5,3,1
+59,Female,Grocery outlet ,Frequently,Cheese,White,Some College/Associates Degree,"$20,000 less",136,3024.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,6,5,2
+58,Female,Macys,Occasionally,Macys,White,High School/GED,"$20,001-$35,000",242,3074,7,6,6,7,6,7,6,6,6,6,6,6,1,6,6,4,5,5,4
+71,Female,Asics Outlet ,Rarely,athletic shoes,White,,"$50,001-75,000",170,3093.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,4,3,3,3
+67,Female,Value Village,Somewhat Frequently,Cold weather coat,White,Graduate/Professional Degree,"$50,001-75,000",182,3240.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,5,2,5,5
+62,Female,Coborns,Occasionally,Yes,White,High School/GED,"$50,001-75,000",296,3287.5,4,5,5,6,5,5,6,5,5,6,6,5,1,5,5,2,5,5,1
+56,Female,Shoe Carnival,Rarely,shoes,White,High School/GED,"$20,000 less",561,3315.5,6,6,6,6,6,7,6,6,6,6,6,5,2,5,5,7,2,4,1
+23,Female, Heritages,Frequently,Tobacco,White,Some College/Associates Degree,"$35,001-$50,000",2089,3466.5,7,7,7,7,7,7,7,7,5,7,4,7,1,7,7,5,7,6,1
+62,Female,Belks,Somewhat Frequently,Xmas gifts,White,Some College/Associates Degree,"Greater than $100,000",232,3469,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,7
+65,Male,Winn Dixie,Rarely,Crab cakes,White,High School/GED,"$20,000 less",271,3834.5,1,1,1,1,1,1,1,1,1,1,1,1,7,4,1,3,6,5,6
+60,Female,Walmart,Occasionally,christmas,White,High School/GED,"Greater than $100,000",168,3948.5,2,2,4,4,4,5,3,3,4,4,4,4,2,4,4,5,2,1,1
+55,Female,FOREVER21,Somewhat Rarely,TEEN CLOTHING,White,Some College/Associates Degree,"Greater than $100,000",169,4030.5,6,6,7,7,7,7,7,7,6,6,6,6,1,5,6,3,6,6,2
+40,Male,Amazon,Somewhat Frequently,All kinds of things,East Asian,Graduate/Professional Degree,"Greater than $100,000",120,4173,6,6,6,6,6,6,6,6,6,6,6,5,2,6,6,5,5,6,5
+39,Female,walmart,Somewhat Frequently,"gifts, food, other",White,Bachelor's degree,"$75,000-$100,000",245,4245,6,6,6,6,6,6,6,6,5,5,4,6,2,6,6,6,3,4,1
+56,Male,j c penney,Somewhat Frequently,jewelry,White,Bachelor's degree,"$75,000-$100,000",254,4482,6,6,7,7,7,7,7,7,5,5,5,4,3,5,5,2,6,6,4
+47,Male,Cos,Somewhat Frequently,Liquor,White,Bachelor's degree,"Greater than $100,000",582,4711.5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,4,4,4
+61,Female,fred meyer,Somewhat Frequently,groceries,White,Some College/Associates Degree,"Greater than $100,000",207,4882,7,7,7,7,7,7,7,7,6,6,6,6,1,6,6,4,5,5,5
+62,Male,amazon,Frequently,stereo amp,White,Graduate/Professional Degree,"$20,000 less",300,5464.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,7,7,4
+67,Female,Walmart,Frequently,Household items,White,Some College/Associates Degree,"$20,000 less",279,5760.5,1,1,3,1,1,1,1,1,5,4,5,6,2,4,6,3,7,7,6
+67,Female,Macys,Somewhat Frequently,jewelry,White,Graduate/Professional Degree,"$20,001-$35,000",178,5777.5,5,5,6,4,4,4,4,4,6,5,4,7,1,7,7,1,6,6,4
+46,Female,Walmart,Frequently,Food,White,Some College/Associates Degree,"$75,000-$100,000",157,5785,7,7,7,7,7,7,7,6,6,6,4,7,1,7,7,2,5,6,2
+76,Female,WalMart,Frequently,"Groceries, clothes, household items",White,Some College/Associates Degree,"$50,001-75,000",296,5997.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,7,7,7
+59,Female,Walmart,Frequently,Apple Watch ,White,Some College/Associates Degree,"$20,001-$35,000",605,6011,7,4,5,7,7,7,7,7,6,6,6,6,1,6,6,7,5,5,2
+59,Female,Macys,Somewhat Frequently,Women's adidas Grey sweatpants,White,Some College/Associates Degree,"$20,001-$35,000",315,6169,7,7,7,7,7,7,7,7,6,7,7,6,1,6,6,2,7,6,4
+54,Female,Walmart,Occasionally,Groceries,White,Bachelor's degree,"$20,001-$35,000",246,6250,2,2,4,2,2,2,2,2,4,4,4,4,4,4,4,2,3,1,1
+57,Female,Target,Occasionally,myself and household,Black,Some College/Associates Degree,"$35,001-$50,000",307,6335.5,7,7,7,7,7,7,7,7,7,7,7,6,2,4,5,4,5,5,5
+64,Male,Parts Unknown,Occasionally,Leather Blazer,White,Bachelor's degree,"Greater than $100,000",261,6751,7,7,7,7,7,7,7,7,7,7,7,7,1,6,6,4,7,6,4
+43,Male,wefwefww,Frequently,dfgdfgerger,White,Graduate/Professional Degree,"$75,000-$100,000",798,7216,7,6,7,7,6,6,7,6,7,6,7,6,1,6,7,1,6,6,6
+54,Female,peir one,Somewhat Rarely,dinning room chairs,White,High School/GED,"$50,001-75,000",169,7942.5,7,7,7,7,7,7,7,7,7,7,7,7,1,6,6,1,7,7,7
+58,Female,kolhs,Somewhat Frequently,jeans,White,,"$50,001-75,000",127,8605,5,5,5,6,5,6,5,5,6,6,6,5,6,6,6,6,6,5,6
+81,Female,macys,Somewhat Frequently,granddaughters,White,High School/GED,"$50,001-75,000",219,8854,7,7,7,7,7,7,7,7,7,7,7,7,1,6,7,2,5,5,3
+68,Female,cracker barrel store,Occasionally,nothing in particular,White,Some College/Associates Degree,"$35,001-$50,000",344,8892,7,7,7,7,7,7,7,7,6,6,6,6,1,5,6,3,5,5,4
+42,Female,Nordstrom,Somewhat Frequently,Clothing,White,Bachelor's degree,"$20,000 less",685,9051.5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1,1,7,5
+31,Male,Petsmart,Occasionally,Pet accessories,White,Graduate/Professional Degree,"Greater than $100,000",194,9568.5,3,3,2,4,3,3,4,3,3,3,4,5,3,3,5,5,2,3,3
+30,Female,TJ MAxx,Rarely,clothes,White,Bachelor's degree,"$20,001-$35,000",126,9926,6,6,6,6,6,6,6,6,5,5,5,4,3,4,5,4,5,3,2
+43,Male,Khols,Frequently,CHRISTMAS shopping ,Hispanic/Latino,High School/GED,"$50,001-75,000",168,10006.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,5,5,6
+70,Female,Nebraska Furniture,Somewhat Rarely,couch,White,Graduate/Professional Degree,"$35,001-$50,000",302,11517.5,6,5,6,6,6,6,6,6,6,6,6,5,1,5,5,4,4,3,1
+72,Female,WalMart,Occasionally,xmas clearance items,White,Bachelor's degree,"Greater than $100,000",309,12916.5,7,7,7,6,6,7,7,6,6,6,6,7,1,6,7,5,4,1,1
+58,Female,TJ Maxx,Occasionally,Holiday Ornament,White,Graduate/Professional Degree,"$50,001-75,000",306,13509.5,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,3,5,3,1
+60,Male,jcpennys,Occasionally,christmas gifts,White,Some College/Associates Degree,"$50,001-75,000",114,14030,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,6,1,1,1
+41,Female,Ross,Somewhat Rarely,Lamp,White,Bachelor's degree,"$75,000-$100,000",560,14185.5,5,5,6,5,5,5,5,5,5,5,5,4,2,3,5,5,3,3,1
+35,Female,Kohl ,Frequently,Clothes ,West Asian/Middle Eastern,Graduate/Professional Degree,"$75,000-$100,000",287,15445.5,7,7,7,7,7,7,7,7,7,6,6,6,1,4,6,6,7,4,6
+56,Female,Kohl's,Frequently,clothing,White,Graduate/Professional Degree,"$75,000-$100,000",244,15782,7,6,7,7,7,7,7,7,7,7,7,7,1,7,,6,2,2,1
+46,Female,Kohls,Occasionally,bras,White,Bachelor's degree,"$50,001-75,000",4336,19773.5,4,4,4,3,5,4,5,4,5,5,5,5,3,5,5,7,5,1,1

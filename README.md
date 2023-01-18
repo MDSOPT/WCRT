@@ -1,7 +1,8 @@
 # WCRT
 Worst Case Resistance Testing and n-Curve Analysis for Giving Measure of Statistical Robustness
 
-This repository gives code and data files for the paper "Worst Case Resistance Testing: A Nonresponse Bias Solution for Today’s Behavioral Research Realities".
+This repository gives code and data files for the paper "Worst Case Resistance Testing: A Nonresponse Bias Solution for Today’s Behavioral Research Realities". Joint work with Dr. Frank Adams and Dr. Myles Landers.
+
 The files listed in the project are as follows:
 
 R Code and Data Files
